@@ -1,0 +1,33 @@
+
+# === Compiled Binaries & Libraries ===
+*.executable
+*.out
+*.app
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+
+# === Build Directories ===
+[Bb]uild/
+[Cc]m-build/
+dist/
+
+# === IDE & Editor Files ===
+.vscode/
+.idea/
+*.suo
+*.user
+*.VisualStudio
+CMakeSettings.json
+CMakeUserPresets.json
+
+# === Operating System Trash ===
+.DS_Store
+Thumbs.db
+
+# === Local Log & Test Outputs ===
+*.log
